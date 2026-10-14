@@ -1,0 +1,35 @@
+Scope of this license
+=====================
+
+This MIT license applies only to the original copyrightable code and explanatory
+comments in QuanticTest.py for which Nicolas Santos (@nicozsd) holds the
+necessary rights, including those portions in Git blob
+3bc0665713f491ae9f9c27d43aca04fdc0bb9eb6 (recorded in 2025).
+
+It does not license any independently copyrighted third-party material,
+whether embedded in that file or obtained through imported dependencies, and
+it does not extend to other repository files, including breakCode.py.
+Third-party material remains governed by its own applicable terms.
+See NOTICE.md for file-specific scope and attribution.
+
+MIT License
+
+Copyright (c) 2025 Nicolas Santos (@nicozsd)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
